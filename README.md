@@ -15,6 +15,10 @@ An Automated ML run, lasting 20 minutes, explored 15 different models. The best 
 ### Architectural Diagram:
 ![Architectural Diagram](images/archdiagram.png) Architectural Diagram
 
+### Screencast
+
+[Screen Cast Part 1](UdacityProj2part1.mp4)
+
 #### Step 1: Authentication
 
 ##### Create Service Principal
