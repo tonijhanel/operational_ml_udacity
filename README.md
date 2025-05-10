@@ -13,16 +13,16 @@ An Automated ML run, lasting 20 minutes, explored 15 different models. The best 
 2.	**Increasing Automated ML Run Time:** The Automated ML process was limited to 20 minutes to manage computational costs. Extending the run time to 45 minutes or an hour could allow the system to explore a wider range of models and hyperparameter configurations, potentially leading to further improvements in model performance.
 
 ### Architectural Diagram:
-![Architectural Diagram](archdiagram.png) Architectural Diagram
+![Architectural Diagram](images/archdiagram.png) Architectural Diagram
 
 #### Step 1: Authentication
 
 ##### Create Service Principal
-![RBAC command](auth_rbac.png) Create the Service Principal
+![RBAC command](images/auth_rbac.png) Create the Service Principal
 
 
 ##### Capture Object ID
-![Show Client](show_client_id.png) Capture Object ID
+![Show Client](images/show_client_id.png) Capture Object ID
 
 
 ##### Share Command
