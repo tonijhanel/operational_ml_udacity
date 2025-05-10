@@ -17,7 +17,7 @@ An Automated ML run, lasting 20 minutes, explored 15 different models. The best 
 
 ### Screencast
 
-[Screen Cast Part 1](UdacityProj2part1.mp4)
+[Screen Cast](https://drive.google.com/file/d/19AehQU7S3-omNJG8SonqOZqBMhNxobq1/view?usp=sharing)
 
 #### Step 1: Authentication
 
