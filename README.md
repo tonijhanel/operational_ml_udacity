@@ -44,7 +44,7 @@ An Automated ML run, lasting 20 minutes, explored 15 different models. The best 
 ![Auto ML Best Model](images/automl_completed.png) Auto ML Best Run
 
 #### Step 3: Deploy the Best Model
-![Auto ML Best Model Summary](automl_bestmodel.png) Auto ML Best Run Summary
+![Auto ML Best Model Summary](images/automl_bestmodel.png) Auto ML Best Run Summary
 
 #### Step 4: Enable Logging
 
