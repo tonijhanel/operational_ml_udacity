@@ -26,69 +26,69 @@ An Automated ML run, lasting 20 minutes, explored 15 different models. The best 
 
 
 ##### Share Command
-![Share command](rolecombined.png) Assign the role to the new Service Principal for the given Workspace, Resource Group and User
+![Share command](images/rolecombined.png) Assign the role to the new Service Principal for the given Workspace, Resource Group and User
 
 #### Step 2: Automated ML Experiment
 
 ##### Registered Dataset
-![Bank Marketing Dataset](bankdataset.png) Bank Marketing Dataset
+![Bank Marketing Dataset](images/bankdataset.png) Bank Marketing Dataset
 
-![Bank Marketing Dataset](bankdataset2.png) Bank Marketing Dataset Rows
+![Bank Marketing Dataset](images/bankdataset2.png) Bank Marketing Dataset Rows
 
 ##### AutoML Experiment
 
-![Auto ML Pipeline Completed](pipelinecomplete.png) Auto ML Run Completed
+![Auto ML Pipeline Completed](images/pipelinecomplete.png) Auto ML Run Completed
 
-![Auto ML Summary](pipelinesummary.png) Auto ML Run Summary
+![Auto ML Summary](images/pipelinesummary.png) Auto ML Run Summary
 
-![Auto ML Best Model](automl_completed.png) Auto ML Best Run
+![Auto ML Best Model](images/automl_completed.png) Auto ML Best Run
 
 #### Step 3: Deploy the Best Model
 ![Auto ML Best Model Summary](automl_bestmodel.png) Auto ML Best Run Summary
 
 #### Step 4: Enable Logging
 
-![log.py file](log_changes.png) Changes to log.py
+![log.py file](images/log_changes.png) Changes to log.py
 
-![Logs](logsrun.png) Logs from running log.py
+![Logs](images/logsrun.png) Logs from running log.py
 
-![App Insights Enabled](appinsights_truev2.png) Application Insights enabled on best run endpoint
+![App Insights Enabled](images/appinsights_truev2.png) Application Insights enabled on best run endpoint
 
 
 
 #### Step 5: Swagger Documentation
 
-![Swagger API Definition](swaggerdef1.png) Swagger API Definition for Best Model Endpoint
+![Swagger API Definition](images/swaggerdef1.png) Swagger API Definition for Best Model Endpoint
 
-![Swagger API Definition _ Score](swaggerpost.png) Score method 
+![Swagger API Definition _ Score](images/swaggerpost.png) Score method 
 
-![Swagger Response ](endpointspy.png) Result of consuming the endpoint by running endpoint.py
+![Swagger Response ](images/endpointspy.png) Result of consuming the endpoint by running endpoint.py
 
 
 #### Step 6: Consume Model Endpoints
 
-![Swagger Response ](endpointspy.png) Result of consuming the endpoint by running endpoint.py
+![Swagger Response ](images/endpointspy.png) Result of consuming the endpoint by running endpoint.py
 
-![Benchmark ](benchmark_page1.png) Output from Running Apache Benchmark - Page 1
+![Benchmark ](images/benchmark_page1.png) Output from Running Apache Benchmark - Page 1
 
-![Benchmark ](benchmarkpage2.png) Output from Running Apache Benchmark - Page 2
+![Benchmark ](images/benchmarkpage2.png) Output from Running Apache Benchmark - Page 2
 
 
 
 #### Step 7: Create, Publish and Consume a Pipeline
 
-![Notebook ](notebookautoml.png) Auto ML via SDK notebook
+![Notebook ](images/notebookautoml.png) Auto ML via SDK notebook
 
-![Run Detail ](rundetail.png)  AutoML Run Details
+![Run Detail ](images/rundetail.png)  AutoML Run Details
 
-![Pipeline Run in noteboook ](runidforpipelienendpoint.png)
+![Pipeline Run in noteboook ](images/runidforpipelienendpoint.png)
 
-![Endpoint Pipeline ](endpointpipeline.png) Submit Auto ML Pipeline via SDK
+![Endpoint Pipeline ](images/endpointpipeline.png) Submit Auto ML Pipeline via SDK
 
-![Pipeline Active ](pipelinerestendpointstatus.png) Auto ML Pipeline Run
+![Pipeline Active ](images/pipelinerestendpointstatus.png) Auto ML Pipeline Run
 
-![Pipeline completed ](pipelineendpoint_completed.png) Auto ML Pipeline Completion
+![Pipeline completed ](images/pipelineendpoint_completed.png) Auto ML Pipeline Completion
 
-![Pipeline Active ](pinelineactive.png) Auto ML Pipeline Status
+![Pipeline Active ](images/pinelineactive.png) Auto ML Pipeline Status
 
 
